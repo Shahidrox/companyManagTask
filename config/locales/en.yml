@@ -1,0 +1,8 @@
+en:
+  messages:
+    created: "%{resource} has been created successfully."
+    updated: "%{resource} has been updated successfully."
+    destroyed: "%{resource} has been removed successfully."
+    not_fount: "%{resource} not found"
+    greaterthan: "%{resource} mast be greaterthan %{value}"
+    already_added: "%{resource} already added."
